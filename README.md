@@ -10,7 +10,7 @@
 💠 .NET
 
 ### Music is the answer
-🎵 I'm also a local-area DJ, so most of my projects are tools related to my musical passion. Combining my most favorite topics, coding and dance music. 🎧
+🎵 I'm also a DJ, so most of my projects are tools related to my musical passion. Combining my most favorite topics, coding and dance music! 🎧
 
 <!--
 **Kaan0200/kaan0200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
