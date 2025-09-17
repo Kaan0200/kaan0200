@@ -9,7 +9,7 @@
 🧶 Angular
 💠 .NET
 
-### Music is the answer
+### Music Is The Answer
 🎵 I'm also a DJ, so most of my projects are tools related to my musical passion. Combining my most favorite topics, coding and dance music! 🎧
 
 <!--
