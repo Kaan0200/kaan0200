@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hello!
+
+👋 I'm Kaan, a web-developer in the North East Ohio area! ✨
+
+
+## Familiar Technologies
+
+🏮 React 
+🧶 Angular
+💠 .NET
+
+## Spinnin' Hot Beats
+
+🎵 I'm also a local-area DJ, so most of my projects are tools related to my musical passion. 🎧
 
 <!--
 **Kaan0200/kaan0200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
