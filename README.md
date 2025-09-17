@@ -1,6 +1,6 @@
 ## Hello!
 
-👋 I'm Kaan, a web-developer in the North East Ohio area! ✨
+👋 I'm Kaan, a web-developer in the North East Ohio area! I'm open to work and looking for the next opportunity to sink my teeth into coding! ✨
 
 
 ### Familiar Technologies
