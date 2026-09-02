@@ -8,10 +8,12 @@
 ### _Stacked Skills_
 
 🏮 React 🧶 Angular 💠 .NET 
+
 Design 🧪 Development 🥪 DevOps 🦕
 
 ### _Music Is The Answer_
 _"Music is the answer to your problems.  Keep on moving, and you will solve them."_
+
 🎵 I'm also a DJ, so most of my projects are tools related to my musical passion. Combining my most favorite topics, coding and dance music! 🎧
 
 <!--
